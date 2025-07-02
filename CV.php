@@ -14,12 +14,10 @@ $contact = [
             "nom" => "Florino",
             "prenom" => "Simon",
             "email" => "florino.simon@hotmail.fr",
-            "phone" => "06.98.94.56.84",
             "github" => "https://github.com/FlorinoSimon",
             "linkedin" => "https://www.linkedin.com/in/florino-simon/",
             "véhiculé" => "Permis B",
             "RQTH" => "oui",
-            "adresse" => "57 avenue de la colombe 69520 Grigny",
             "age" => "32 ans",
             "disponibilité" => "immédiate"
         ]
