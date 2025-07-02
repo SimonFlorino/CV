@@ -1,0 +1,4 @@
+/contact'
+/skills'
+/experiences'
+/formations'
