@@ -1,8 +1,8 @@
-/contact'
+/contact
 <br>
-/skills'
+/skills
 <br>
-/experiences'
+/experiences
 <br>
-/formations'
+/formations
 <br>
